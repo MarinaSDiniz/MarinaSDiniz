@@ -21,3 +21,5 @@
   <a href = "mailto:marinasilvadiniz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marina-silva-diniz-939a44199/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
+
+![snake animation](https://github.com/<MarinaSDiniz>/<MarinaSDiniz>/blob/output/github-contribution-grid-snake2.svg)
