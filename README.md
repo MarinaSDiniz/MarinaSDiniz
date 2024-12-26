@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=de0274&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com/demo/?font=Poppins&weight=600&color=DE0274&lines=%E2%8A%B9%E2%82%8A%E2%9F%A1%E2%8B%86+Oii!+Eu+sou+a+Marina++%E2%8A%B9%E2%82%8A%E2%9F%A1%E2%8B%86;%E2%99%A1+Welcome+to+my+profile!+%E2%99%A1">
   </a>
 </div>
 
