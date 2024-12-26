@@ -2,7 +2,7 @@ name: Generate Datas
 
 on:
   schedule: # Execute every 12 hours
-    - cron: "0 */12 * * *" # Corrigido o formato do cron
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -18,11 +18,12 @@ jobs:
           github_user_name: MarinaSDiniz
           svg_out_path: dist/github-contribution-grid-snake.svg
 
+      # Deploy to GitHub Pages
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
           build_dir: dist
-        env:
+        env: # Environment variables should not be under 'with'
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       # Runs a set of commands using the runner's shell
