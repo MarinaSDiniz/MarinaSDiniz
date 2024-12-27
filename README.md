@@ -15,6 +15,7 @@
   <img align="center" alt="Marina-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Marina-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Marina-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
+  <img align="center" alt="Marina-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg">
   <img align="right" alt="Marina_draw" height="150" width="150" src="https://cdn.discordapp.com/attachments/1054838537155002420/1321644333035814912/mari_draw.gif?ex=676dfcb3&is=676cab33&hm=1e7ba2d2b3a6abfb1a960d724a3a927301f4a6d91d25e048a73c0dd686125276&">
 </div>
   
