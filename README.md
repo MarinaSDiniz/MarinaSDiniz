@@ -32,3 +32,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarinaSDiniz/MarinaSDiniz/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MarinaSDiniz/MarinaSDiniz/output/github-contribution-grid-snake.svg">
 </picture>
+
+<div align="center">
+
+[![Marina GitHub Streak](https://streak-stats.demolab.com?user=MarinaSDiniz&theme=radical&locale=pt_BR&card_width=500)](https://git.io/streak-stats)
+</div>
