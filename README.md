@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&pause=1000&color=DE0274&width=435&lines=%E2%8A%B9%E2%82%8A%E2%9F%A1%E2%8B%86+Oii!+Eu+sou+a+Marina++%E2%8A%B9%E2%82%8A%E2%9F%A1%E2%8B%86;%E2%99%A1+Welcome+to+my+profile!+%E2%99%A1)](https://git.io/typing-svg)
 
-- 🌱 Estudando Python
+- 🌱 Estudando Python e SQL
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarinaSDiniz&show_icons=true&theme=radical)](https://github.com/MarinaSDiniz/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaSDiniz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
