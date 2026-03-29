@@ -4,7 +4,7 @@
 - 🌱 Estudando React, SQL, Java, PHP
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarinaSDiniz&show_icons=true&theme=radical)](https://github.com/MarinaSDiniz/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarinaSDiniz&show_icons=true&theme=radical)](https://github.com/MarinaSDiniz/github-readme-stats)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=MarinaSDiniz-2005&show_icons=true)](https://github.com/MarinaSDiniz/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaSDiniz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
