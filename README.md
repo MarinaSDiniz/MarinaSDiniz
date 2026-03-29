@@ -3,7 +3,7 @@
 
 - 🌱 Estudando React, SQL, Java, PHP
 
-[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=MarinaSDiniz&show_icons=true)](https://github.com/MarinaSDiniz/github-readme-stats)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=MarinaSDiniz&show_icons=true&theme=rose)](https://github.com/MarinaSDiniz/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Marina-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
