@@ -1,6 +1,6 @@
 <img width="950" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=C93733&reversal=false">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&pause=1000&color=DE0274&width=435&lines=%E2%8A%B9%E2%82%8A%E2%9F%A1%E2%8B%86+Oii!+Eu+sou+a+Marina++%E2%8A%B9%E2%82%8A%E2%9F%A1%E2%8B%86;%E2%99%A1+Welcome+to+my+profile!+%E2%99%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&pause=1000&color=C93733&width=435&lines=%E2%8A%B9%E2%82%8A%E2%9F%A1%E2%8B%86+Oii!+Eu+sou+a+Marina++%E2%8A%B9%E2%82%8A%E2%9F%A1%E2%8B%86;%E2%99%A1+Welcome+to+my+profile!+%E2%99%A1)](https://git.io/typing-svg)
 
 - 🌱 Estudando React, SQL, Java, PHP
 
