@@ -1,3 +1,4 @@
+<img width="950" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=C93733&reversal=false">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&pause=1000&color=DE0274&width=435&lines=%E2%8A%B9%E2%82%8A%E2%9F%A1%E2%8B%86+Oii!+Eu+sou+a+Marina++%E2%8A%B9%E2%82%8A%E2%9F%A1%E2%8B%86;%E2%99%A1+Welcome+to+my+profile!+%E2%99%A1)](https://git.io/typing-svg)
 
@@ -19,9 +20,17 @@
   <img align="center" alt="Marina-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="Marina-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
   <img align="center" alt="Marina-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg">
-  <img align="right" alt="Marina_draw" height="150" width="150" src="https://cdn.discordapp.com/attachments/1054838537155002420/1321644333035814912/mari_draw.gif?ex=676dfcb3&is=676cab33&hm=1e7ba2d2b3a6abfb1a960d724a3a927301f4a6d91d25e048a73c0dd686125276&">
+
+  <img align="right" width="150" height="150" alt="image" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" />
 </div>
+
+<img width="700" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
+
+<div>
   
+  <img align="center" width="500" height="500" alt="image" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" />
+</div>
+
   ##
 
   <div>
@@ -35,3 +44,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarinaSDiniz/MarinaSDiniz/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MarinaSDiniz/MarinaSDiniz/output/github-contribution-grid-snake.svg">
 </picture>
+
+<img align="center" width="700" height="350" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
+
+<img width="950" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=C93733&reversal=false&section=footer">
